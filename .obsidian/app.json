@@ -1,9 +1,10 @@
 {
   "defaultViewMode": "preview",
   "attachmentFolderPath": "Resources/links",
-  "newFileLocation": "folder",
+  "newFileLocation": "current",
   "promptDelete": false,
   "newFileFolderPath": "Resources/links",
   "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "showInlineTitle": false
 }

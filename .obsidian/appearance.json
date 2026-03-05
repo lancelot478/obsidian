@@ -9,5 +9,7 @@
     "content",
     "min-width"
   ],
-  "showRibbon": false
+  "showRibbon": false,
+  "showViewHeader": false,
+  "translucency": true
 }
