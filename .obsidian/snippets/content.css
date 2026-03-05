@@ -1,0 +1,6 @@
+.popover.hover-popover > .markdown-embed {
+    height: 100%;
+    max-height: 200vh;
+    max-width: 200vh;    
+    overflow: scroll;
+}

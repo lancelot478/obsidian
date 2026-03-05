@@ -1,0 +1,9 @@
+{
+  "checkFXRefMatValidActionIgnore": [
+    "fx_truthboss2_ep_2_skill1_2_fly_hit",
+    "fx_cj_qiqiu",
+    "fx_dragonearthworldboss2_ep_2_skill1_1",
+    "fx_slimekingi_lightningdebuff",
+    "fx_slimekingi_waterdebuff"
+  ]
+}

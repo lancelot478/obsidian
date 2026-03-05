@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:ProgressBar title="执行进度" name="progress_Process" low-value="0" style="position: relative; top: 17px; left: -1px; display: flex;" />
+    <ui:Button text="创建并导出五大职业Prefab" display-tooltip-when-elided="true" name="btn_CreateBaseJob" style="-unity-text-align: middle-center; white-space: nowrap; position: relative; top: 50px;" />
+    <ui:Toggle label="创建后运行游戏" name="toggle_AutoPlayAfterBuildBundle" value="true" style="position: relative; opacity: 1; top: 52px;" />
+    <ui:TextField picking-mode="Ignore" label="时装染色贴图被至少*个材质依赖时打入公共包" value="filler text" text="2" name="filed_fashionSetting1" style="translate: 0 141px;" />
+</ui:UXML>

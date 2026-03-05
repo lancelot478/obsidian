@@ -1,0 +1,26 @@
+local _ENV = Boli2Env
+BasePlaneSrc = _ViewBase:New("BasePlaneSrc", PlaneType.Function)
+
+function BasePlaneSrc:InitComponents()
+-------  Auto Create Start， Dont Code in it ----------- 
+-------  Auto Create End， Dont Code in it ----------- 
+end
+
+function BasePlaneSrc:OnInit()
+
+end
+
+function BasePlaneSrc:OnOpen()
+
+end
+
+function BasePlaneSrc:Update(_deltaTime)
+
+end
+
+function BasePlaneSrc:OnClose()
+
+end
+
+function BasePlaneSrc:OnDestroy()
+end

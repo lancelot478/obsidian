@@ -1,0 +1,314 @@
+{
+  "main": {
+    "id": "842c36caf304434c",
+    "type": "split",
+    "children": [
+      {
+        "id": "28cbc88d3a9791ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1e3bf6f7a0fe51e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/news-analysis/memo.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "memo"
+            }
+          },
+          {
+            "id": "c0c9bc02d58fa7b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/news-analysis/memo.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "memo"
+            }
+          },
+          {
+            "id": "67073a9b0e48d8ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/news-analysis/memo.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "memo"
+            }
+          },
+          {
+            "id": "c275ab0f4102d38e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/news-analysis/memo.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "memo"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb60f8d8c9ab83fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "60431759b55ea7a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "611d51664afcb8c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "ce0c12bc75556d7f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "AI",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "0a9d84ce01c3c1f2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "4262c8b555affb1f",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "surfing-tab-tree"
+            }
+          },
+          {
+            "id": "1808a10e2818b36a",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {},
+              "icon": "chrome",
+              "title": "Surfing Tab Tree"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "right": {
+    "id": "c00cc39d483a21e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "6eaa2f8d54fafc9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "889905e74b1bc5a8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Resources/links/PrivateInfo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for PrivateInfo"
+            }
+          },
+          {
+            "id": "9c81eb5b16f2cbec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AI/news-analysis/memo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "memo 的出链列表"
+            }
+          },
+          {
+            "id": "f21b9f685127cbc3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "ea563d98a39165e5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Resources/links/Cursor.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Cursor"
+            }
+          },
+          {
+            "id": "6079e0c2460e8bfd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "c884b00fc49d2078",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "remotely-save:Remotely Save": false,
+      "terminal:Open terminal": false,
+      "obsidian-weread-plugin:同步微信读书笔记": false
+    }
+  },
+  "active": "67073a9b0e48d8ea",
+  "lastOpenFiles": [
+    "AI/news-analysis/ReadMe.md",
+    "AI/news-analysis/memo.md",
+    "Work/Config.md",
+    "AI/未命名.md",
+    "AI/news-analysis",
+    "Learning/ReadingList/Source Code/读书笔记/Note/generics.md",
+    "Learning/ReadingList/Source Code/读书笔记/Note/Optimization.md",
+    "Learning/ReadingList/Source Code/读书笔记/深入浅出Node.js.md",
+    "Learning/ReadingList/Source Code/读书笔记/引用文章.md",
+    "Learning/ReadingList/Source Code/读书笔记/Optimization.md",
+    "Learning/ReadingList/Source Code/读书笔记/Note",
+    "Learning/ReadingList/Source Code/读书笔记/Game pattern.md",
+    "Learning/ReadingList/Source Code/UIManager/UIManager.md",
+    "Learning/ReadingList/Renderer/PBR/毛星云知乎.md",
+    "Learning/ReadingList/Renderer/PBR/ShaderGraph.md",
+    "Learning/ReadingList/news-analysis/memo.md",
+    "Learning/ReadingList/news-analysis/ReadMe.md",
+    "Learning/ReadingList/Tools/插件.md",
+    "Learning/ReadingList/Tools/TryParse.md",
+    "Learning/ReadingList/Tools/Regex.md",
+    "Learning/ReadingList/Tools/Csharp Json.md",
+    "Learning/ReadingList/UI/UIManger.md",
+    "Learning/ReadingList/UI/Pivot Anchored.md",
+    "Learning/ReadingList/Source Code/读书笔记",
+    "Learning/ReadingList/Source Code/UIManager",
+    "Learning/ReadingList/Source Code/Object Pool in Unity.md",
+    "Learning/ReadingList/Source Code/Attribute.md",
+    "Learning/ReadingList/Source Code/API.md",
+    "Learning/ReadingList/Renderer/延迟渲染.md",
+    "Learning/ReadingList/Renderer/unity光照模型.md",
+    "Learning/ReadingList/Renderer/PBR",
+    "Learning/ReadingList/news-analysis",
+    "Learning/ReadingList/UI",
+    "Learning/ReadingList/Tools",
+    "Learning/ReadingList/Source Code",
+    "Learning/ReadingList/Renderer",
+    "Resources/links/Pasted image 20250108114254.png",
+    "Resources/links/Pasted image 20250225104756.png",
+    "Resources/links/Pasted image 20250225105025.png",
+    "Resources/links/Pasted image 20240726165417.png",
+    "Resources/links/Screenshot 2024-07-26 at 16.52.54.png",
+    "Resources/links/Pasted image 20241213131836.png",
+    "Resources/links/Pasted image 20241128101458.png",
+    "Resources/links/Pasted image 20241115153146.png",
+    "Resources/links/Pasted image 20241015110310.png",
+    "Resources/links/Pasted image 20241015110253.png"
+  ]
+}

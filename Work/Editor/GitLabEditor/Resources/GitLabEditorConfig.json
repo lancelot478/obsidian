@@ -1,0 +1,31 @@
+{
+  "GitLabHost": "https://git.xindong.com",
+  "TokenSaveKey": "gitlabtoken",
+  "DefaultCommitsInDays": "14",
+  
+  "Projects": [
+    {
+      "ProjectID": "414",
+      "ProjectName": "出发吧麦芬客户端",
+      "CherryPickFromBranches": [
+        "2023-11-28-Unity2021-3-13",
+        "archive/branch/tw/tw-obt-design-2024-1-25"
+      ],
+      "CherryPickToBranches": [
+        "archive/branch/tw/tw-obt-design-2024-1-25",
+        "archive/branch/cn/cn-obt-design-2024-5-22"
+      ]
+    },
+    {
+      "ProjectID": "1517",
+      "ProjectName": "天天打波利客户端",
+      "CherryPickFromBranches": [
+        "new_ttdbl2_unity2018"
+      ],
+      "CherryPickToBranches": [
+        "release/tf",
+        "release/online"
+      ]
+    }
+  ]
+}

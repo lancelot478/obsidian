@@ -1,0 +1,13 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="project://database/Assets/Editor/GenerateGuildAnimation/GenerateGuildAnimation.uss?fileID=7433441132597879392&amp;guid=79b5fb28304632949ab3cbe51b2229f4&amp;type=3#GenerateGuildAnimation" />
+    <ui:VisualElement name="top" style="flex-grow: 1;" />
+    <ui:VisualElement name="bottom" style="bottom: 0; height: 300px; justify-content: center;">
+        <ui:Button text="迁移目录" display-tooltip-when-elided="true" name="move_clip_button" style="justify-content: flex-start;" />
+        <ui:VisualElement style="height: 50px; flex-direction: row; flex-grow: 0; align-items: center; justify-content: center;">
+            <ui:Button text="按职业生成控制器" display-tooltip-when-elided="true" name="generate_controller_button" style="justify-content: flex-start; flex-grow: 1;" />
+            <ui:Button text="按性别生成控制器" display-tooltip-when-elided="true" name="generate_sexual_controller_button" style="justify-content: flex-start; flex-grow: 1;" />
+        </ui:VisualElement>
+        <ui:Button text="删除老动画片段" display-tooltip-when-elided="true" name="delete_old_anim_button" style="justify-content: flex-start;" />
+        <ui:Button text="标记Bundle" display-tooltip-when-elided="true" name="mark_controller_button" style="justify-content: flex-start;" />
+    </ui:VisualElement>
+</ui:UXML>

@@ -1,0 +1,37 @@
+{
+  "locales": [
+    {
+      "Locale": "Korean",
+      "AppName": "고!고!머핀!",
+      "CameraUsageDescription": "머핀이 귀하께서 카메라 권한을 허용하여 더욱 완벽한 게임 콘텐츠를 즐기길 권장합니다, 확인 부탁드립니다!",
+      "MicrophoneUsageDescription": "머핀이 귀하께서 마이크 권한을 허용하여 더욱 완벽한 게임 콘텐츠를 즐기길 권장합니다, 확인 부탁드립니다!",
+      "LocationUsageDescription": "머핀이 귀하께서 위치 권한을 허용하여 더욱 완벽한 게임 콘텐츠를 즐기길 권장합니다, 확인 부탁드립니다!",
+      "NSPhotoLibraryAddUsageDescription": "게임 플레이 시 인게임 스크린샷 공유, 업로드, 저장 등 기능 사용을 위해 사진/라이브러리 권한을 허용해 주시기 바랍니다.",
+      "UserTrackUsageDescription": "IDFA 권한 액세스에 협조 부탁드립니다. 해당 권한은 더 쾌적하고 안전한 개인화 서비스와 내용을 제공해 드리기 위해 사용되며, 동의없이 다른 목적에 사용되지 않습니다. 실행 후, “설정 – 개인정보 보호”에서 언제든지 권한 설정을 변경할 수 있습니다."
+    },
+    {
+      "Locale": "English",
+      "AppName": "GO!GO!Muffin",
+      "CameraUsageDescription": "Muffin needs to enable the camera for you to have a more complete gaming experience. Please confirm, pretty please with a cherry on top!",
+      "MicrophoneUsageDescription": "Muffin needs to enable the microphone for you to have a more complete gaming experience. Please confirm, pretty please with a cherry on top!",
+      "LocationUsageDescription": "Muffin needs to enable location services for you to have a more complete gaming experience. Please confirm, pretty please with a cherry on top!",
+      "NSPhotoLibraryAddUsageDescription": "\"GoGo Muffin\" needs your permission to add photos",
+      "UserTrackUsageDescription": "In order for us to provide you with a more personalized, enjoyable and safer experience, please enable IDFA permissions. IDFA permissions may be enabled via the Settings - Privacy menu. We will not use them for any other purpose without your consent."
+    }
+  ],
+  "defaultLocale": "Korean",
+  "availableLocales": ["Korean", "English"],
+  "disabledLocales": ["English"],
+  "platformLocales": [
+    {
+      "platform": "Android",
+      "locales": ["English", "Korean"],
+      "platformLocales": ["en","ko-rKR"]
+    },
+    {
+      "platform": "iOS",
+      "locales": ["English", "Korean"],
+      "platformLocales": ["en", "ko-KR"]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "locales": [
+    {
+      "Locale": "ChineseSimplified",
+      "AppName": "出发吧麦芬",
+      "CameraUsageDescription": "麦芬需要开启相机为你获得更完整的游戏体验，确认的事情就拜托咯！",
+      "MicrophoneUsageDescription": "麦芬需要开启麦克风为你获得更完整的游戏体验，确认的事情就拜托咯！",
+      "LocationUsageDescription": "麦芬需要开启定位为你获得更完整的游戏体验，确认的事情就拜托咯！",
+      "UserTrackUsageDescription": "允许'麦芬'跟踪您在其他公司的APP和网站上的活动吗？ 我们想要获得您的允许，从而能为您提供更好的服务，并尽可能减少这些服务对您的打扰"
+    }
+  ],
+  "defaultLocale": "ChineseSimplified",
+  "availableLocales": ["ChineseSimplified"],
+  "disabledLocales": ["English"],
+  "platformLocales": [
+    {
+      "platform": "Android",
+      "locales": ["English", "ChineseSimplified", "ChineseTraditional"],
+      "platformLocales": ["en", "zh-rCN", "zh-rTW"]
+    },
+    {
+      "platform": "iOS",
+      "locales": ["English", "ChineseSimplified", "ChineseTraditional"],
+      "platformLocales": ["en", "zh_CN", "zh_TW"]
+    }
+  ]
+}

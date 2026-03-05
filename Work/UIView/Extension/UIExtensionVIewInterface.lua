@@ -1,0 +1,20 @@
+local _ENV = Boli2Env
+
+function UIExtension:ViewInterface_Initialize()
+    self:ExposeAPI("CloseUI", function()
+        local viewName = self:CallViewBase("viewName")
+        UIManager:Close(viewName)
+    end)
+    self:ExposeAPI("GetAddSortingOrder", function()
+        return self:CallViewBase("AddSortingOrder")       
+    end)
+    self:ExposeAPI("SetSortingOrder", function(sortingOrder)
+        self:CallViewBase("SetSortingOrder", sortingOrder)
+    end)
+    self:ExposeAPI("SetCanvasSortingOrder", function()
+        self:CallViewBase("SetCanvasSortingOrder")
+    end)
+    self:ExposeAPI("GetViewName", function()
+        return self:CallViewBase("viewName")
+    end)
+end

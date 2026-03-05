@@ -1,0 +1,82 @@
+{
+  "defaultSearchEngine": "google",
+  "customSearchEngine": [
+    {
+      "name": "duckduckgo",
+      "url": "https://duckduckgo.com/?q="
+    }
+  ],
+  "hoverPopover": true,
+  "ignoreList": [
+    "notion",
+    "craft"
+  ],
+  "alwaysShowCustomSearch": false,
+  "showOtherSearchEngines": false,
+  "showSearchBarInPage": true,
+  "markdownPath": "/",
+  "customHighlightFormat": false,
+  "highlightFormat": "[{CONTENT}]({URL})",
+  "highlightInSameTab": false,
+  "openInSameTab": false,
+  "showRefreshButton": false,
+  "openInObsidianWeb": false,
+  "useCustomIcons": false,
+  "useWebview": false,
+  "useIconList": true,
+  "darkMode": false,
+  "bookmarkManager": {
+    "openBookMark": false,
+    "saveBookMark": false,
+    "sendToReadWise": false,
+    "pagination": "12",
+    "category": "- Computer\n    - 算法\n    - 数据结构\n- obsidian\n    - surfing\n    - dataview\n",
+    "defaultCategory": "ROOT",
+    "defaultColumnList": [
+      "name",
+      "description",
+      "url",
+      "category",
+      "tags",
+      "created",
+      "modified",
+      "action"
+    ],
+    "defaultFilterType": "tree"
+  },
+  "treeData": [
+    {
+      "id": "9f1c1dc477e61ed8",
+      "parent": 0,
+      "droppable": true,
+      "text": "统一登录门户",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "54bb843ad7cda030",
+      "parent": 0,
+      "droppable": true,
+      "text": "eslint | ChBlog",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "23ec85db6c04d109",
+      "parent": 0,
+      "droppable": true,
+      "text": "Archive - Jincheng9's blog",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ]
+}

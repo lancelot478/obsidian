@@ -1,0 +1,37 @@
+{
+  "locales": [
+    {
+      "Locale": "English",
+      "AppName": "GO!GO!Muffin",
+      "CameraUsageDescription": "Muffin needs to enable the camera for you to have a more complete gaming experience. Please confirm, pretty please with a cherry on top!",
+      "MicrophoneUsageDescription": "Muffin needs to enable the microphone for you to have a more complete gaming experience. Please confirm, pretty please with a cherry on top!",
+      "LocationUsageDescription": "Muffin needs to enable location services for you to have a more complete gaming experience. Please confirm, pretty please with a cherry on top!",
+      "NSPhotoLibraryAddUsageDescription": "\"GoGo Muffin\" needs your permission to add photos",
+      "UserTrackUsageDescription": "In order for us to provide you with a more personalized, enjoyable and safer experience, please enable IDFA permissions. IDFA permissions may be enabled via the Settings - Privacy menu. We will not use them for any other purpose without your consent."
+    },
+    {
+      "Locale": "Japanese",
+      "AppName": "Go!Go!マフィン!",
+      "CameraUsageDescription": "カメラの使用を許可していただければ、マフィンがより完全なゲーム体験をご提供できます！ご確認お願い致します！",
+      "MicrophoneUsageDescription": "マイクの使用を許可していただければ、マフィンがより完全なゲーム体験をご提供できます！ご確認お願い致します！",
+      "LocationUsageDescription": "位置情報の使用を許可していただければ、マフィンがより完全なゲーム体験をご提供できます！ご確認お願い致します！",
+      "NSPhotoLibraryAddUsageDescription": "Go! Go! マフィン!”は写真を追加するために、あなたの同意が必要です。",
+      "UserTrackUsageDescription": "IDFA権限の許可にご協力をお願いします。より優れた、安全的且つ個性的なサービスを提供させて頂くため、当権限の許可が必要です。許可がない限り、別途での使用はございません。設定-プライバシーからオフにできます。"
+    }
+  ],
+  "defaultLocale": "Japanese",
+  "availableLocales": ["Japanese", "English"],
+  "disabledLocales": ["English"],
+  "platformLocales": [
+    {
+      "platform": "Android",
+      "locales": ["English","Japanese"],
+      "platformLocales": ["en","ja-rJP"]
+    },
+    {
+      "platform": "iOS",
+      "locales": ["English","Japanese"],
+      "platformLocales": ["en","ja-JP"]
+    }
+  ]
+}

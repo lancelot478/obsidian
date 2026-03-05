@@ -1,0 +1,13 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Blue Topaz",
+  "baseFontSize": 21,
+  "textFontFamily": "Helvetica",
+  "monospaceFontFamily": "Courier",
+  "accentColor": "#2da5cd",
+  "enabledCssSnippets": [
+    "content",
+    "min-width"
+  ],
+  "showRibbon": false
+}

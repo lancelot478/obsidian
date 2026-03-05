@@ -1,0 +1,36 @@
+{
+  "locales": [
+    {
+      "Locale": "Vietnamese",
+      "AppName": "Xuất Phát Đi Muffin",
+      "CameraUsageDescription": "Để sử dụng chức năng truy cập ảnh chụp màn hình máy ảnh một cách bình thường, vui lòng cấp quyền truy cập album.",
+      "MicrophoneUsageDescription": "Muffin needs the access to Microphone, for a better game experience",
+      "LocationUsageDescription": "Để cung cấp ngôn ngữ và nội dung của khu vực tương ứng, vui lòng cấp quyền truy cập vào chức năng vị trí của bạn.",
+      "UserTrackUsageDescription": "Vui lòng cấp cho chúng tôi quyền IDFA để lấy ID thiết bị để phân tích và theo dõi; chúng tôi sẽ không sử dụng nó cho bất kỳ mục đích nào khác mà không có sự đồng ý của bạn. Bạn có thể thay đổi quyền bất cứ lúc nào thông qua Cài đặt-Quyền riêng tư."
+    },
+    {
+      "Locale": "English",
+      "AppName": "GO!GO!Muffin",
+      "CameraUsageDescription": "Muffin needs to enable the camera for you to have a more complete gaming experience. Please confirm, pretty please with a cherry on top!",
+      "MicrophoneUsageDescription": "Muffin needs to enable the microphone for you to have a more complete gaming experience. Please confirm, pretty please with a cherry on top!",
+      "LocationUsageDescription": "Muffin needs to enable location services for you to have a more complete gaming experience. Please confirm, pretty please with a cherry on top!",
+      "NSPhotoLibraryAddUsageDescription": "\"GoGo Muffin\" needs your permission to add photos",
+      "UserTrackUsageDescription": "In order for us to provide you with a more personalized, enjoyable and safer experience, please enable IDFA permissions. IDFA permissions may be enabled via the Settings - Privacy menu. We will not use them for any other purpose without your consent."
+    }
+  ],
+  "defaultLocale": "Vietnamese",
+  "availableLocales": ["Vietnamese", "English"],
+  "disabledLocales": ["English"],
+  "platformLocales": [
+    {
+      "platform": "Android",
+      "locales": ["English", "Vietnamese"],
+      "platformLocales": ["en","vi-rVN"]
+    },
+    {
+      "platform": "iOS",
+      "locales": ["English", "Vietnamese"],
+      "platformLocales": ["en", "vi-VN"]
+    }
+  ]
+}

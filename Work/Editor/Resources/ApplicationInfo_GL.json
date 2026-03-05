@@ -1,0 +1,115 @@
+{
+  "locales": [
+    {
+      "Locale": "English",
+      "AppName": "GO!GO!Muffin",
+      "CameraUsageDescription": "Muffin needs the access to Camera, for a better game experience",
+      "MicrophoneUsageDescription": "Muffin needs the access to Microphone, for a better game experience",
+      "LocationUsageDescription": "Muffin needs the access to Location, for a better game experience",
+      "UserTrackUsageDescription": "Allow 'Go!Go!Muffin' to track your activity across other companies' apps and websites? We would like your permission to provide better services, and minimize the interruption induced by irrelevant services"
+    },
+    {
+      "Locale": "German",
+      "AppName": "GO!GO!Muffin",
+      "CameraUsageDescription": "Muffin needs the access to Camera, for a better game experience",
+      "MicrophoneUsageDescription": "Muffin needs the access to Microphone, for a better game experience",
+      "LocationUsageDescription": "Muffin needs the access to Location, for a better game experience",
+      "UserTrackUsageDescription": "Allow 'Go!Go!Muffin' to track your activity across other companies' apps and websites? We would like your permission to provide better services, and minimize the interruption induced by irrelevant services"
+    },
+    {
+      "Locale": "French",
+      "AppName": "GO!GO!Muffin",
+      "CameraUsageDescription": "Muffin needs the access to Camera, for a better game experience",
+      "MicrophoneUsageDescription": "Muffin needs the access to Microphone, for a better game experience",
+      "LocationUsageDescription": "Muffin needs the access to Location, for a better game experience",
+      "UserTrackUsageDescription": "Allow 'Go!Go!Muffin' to track your activity across other companies' apps and websites? We would like your permission to provide better services, and minimize the interruption induced by irrelevant services"
+    },
+    {
+      "Locale": "Russian",
+      "AppName": "GO!GO!Muffin",
+      "CameraUsageDescription": "Muffin needs the access to Camera, for a better game experience",
+      "MicrophoneUsageDescription": "Muffin needs the access to Microphone, for a better game experience",
+      "LocationUsageDescription": "Muffin needs the access to Location, for a better game experience",
+      "UserTrackUsageDescription": "Allow 'Go!Go!Muffin' to track your activity across other companies' apps and websites? We would like your permission to provide better services, and minimize the interruption induced by irrelevant services"
+    },
+    {
+      "Locale": "Portuguese",
+      "AppName": "GO!GO!Muffin",
+      "CameraUsageDescription": "Muffin needs the access to Camera, for a better game experience",
+      "MicrophoneUsageDescription": "Muffin needs the access to Microphone, for a better game experience",
+      "LocationUsageDescription": "Muffin needs the access to Location, for a better game experience",
+      "UserTrackUsageDescription": "Allow 'Go!Go!Muffin' to track your activity across other companies' apps and websites? We would like your permission to provide better services, and minimize the interruption induced by irrelevant services"
+    },
+    {
+      "Locale": "Spanish",
+      "AppName": "GO!GO!Muffin",
+      "CameraUsageDescription": "Muffin needs the access to Camera, for a better game experience",
+      "MicrophoneUsageDescription": "Muffin needs the access to Microphone, for a better game experience",
+      "LocationUsageDescription": "Muffin needs the access to Location, for a better game experience",
+      "UserTrackUsageDescription": "Allow 'Go!Go!Muffin' to track your activity across other companies' apps and websites? We would like your permission to provide better services, and minimize the interruption induced by irrelevant services"
+    },
+    {
+      "Locale": "Turkish",
+      "AppName": "GO!GO!Muffin",
+      "CameraUsageDescription": "Muffin needs the access to Camera, for a better game experience",
+      "MicrophoneUsageDescription": "Muffin needs the access to Microphone, for a better game experience",
+      "LocationUsageDescription": "Muffin needs the access to Location, for a better game experience",
+      "UserTrackUsageDescription": "Allow 'Go!Go!Muffin' to track your activity across other companies' apps and websites? We would like your permission to provide better services, and minimize the interruption induced by irrelevant services"
+    },
+    {
+      "Locale": "Thai",
+      "AppName": "GO!GO!Muffin",
+      "CameraUsageDescription": "Muffin needs the access to Camera, for a better game experience",
+      "MicrophoneUsageDescription": "Muffin needs the access to Microphone, for a better game experience",
+      "LocationUsageDescription": "Muffin needs the access to Location, for a better game experience",
+      "UserTrackUsageDescription": "Allow 'Go!Go!Muffin' to track your activity across other companies' apps and websites? We would like your permission to provide better services, and minimize the interruption induced by irrelevant services"
+    },
+    {
+      "Locale": "Indonesian",
+      "AppName": "GO!GO!Muffin",
+      "CameraUsageDescription": "Muffin needs the access to Camera, for a better game experience",
+      "MicrophoneUsageDescription": "Muffin needs the access to Microphone, for a better game experience",
+      "LocationUsageDescription": "Muffin needs the access to Location, for a better game experience",
+      "UserTrackUsageDescription": "Allow 'Go!Go!Muffin' to track your activity across other companies' apps and websites? We would like your permission to provide better services, and minimize the interruption induced by irrelevant services"
+    },
+    {
+      "Locale": "Vietnamese",
+      "AppName": "GO!GO!Muffin",
+      "CameraUsageDescription": "Muffin needs the access to Camera, for a better game experience",
+      "MicrophoneUsageDescription": "Muffin needs the access to Microphone, for a better game experience",
+      "LocationUsageDescription": "Muffin needs the access to Location, for a better game experience",
+      "UserTrackUsageDescription": "Allow 'Go!Go!Muffin' to track your activity across other companies' apps and websites? We would like your permission to provide better services, and minimize the interruption induced by irrelevant services"
+    },
+    {
+      "Locale": "ChineseSimplified",
+      "AppName": "GO!GO!Muffin",
+      "CameraUsageDescription": "麦芬需要开启相机为你获得更完整的游戏体验，确认的事情就拜托咯！",
+      "MicrophoneUsageDescription": "麦芬需要开启麦克风为你获得更完整的游戏体验，确认的事情就拜托咯！",
+      "LocationUsageDescription": "麦芬需要开启定位为你获得更完整的游戏体验，确认的事情就拜托咯！",
+      "UserTrackUsageDescription": "允许'麦芬'跟踪您在其他公司的APP和网站上的活动吗？ 我们想要获得您的允许，从而能为您提供更好的服务，并尽可能减少这些服务对您的打扰"
+    },
+    {
+      "Locale": "ChineseTraditional",
+      "AppName": "GO!GO!Muffin",
+      "CameraUsageDescription": "麥芬需要開啟相機為你獲得更完整的遊戲體驗，確認的事情就拜託咯！",
+      "MicrophoneUsageDescription": "麥芬需要開啟麥克風為你獲得更完整的遊戲體驗，確認的事情就拜託咯！",
+      "LocationUsageDescription": "麥芬需要開啟定位為你獲得更完整的遊戲體驗，確認的事情就拜託咯！",
+      "UserTrackUsageDescription": "允許'麥芬'追蹤您在其他公司的APP和網站上的活動嗎？ 我們想要獲得您的允許，從而能爲您提供更好的服務，並盡可能減少這些服務對您的打擾"
+    }
+  ],
+  "defaultLocale": "English",
+  "availableLocales": ["English","German","French","Russian","Portuguese","Spanish","Turkish","Thai","Indonesian","Vietnamese","ChineseSimplified","ChineseTraditional"],
+  "disabledLocales": [],
+  "platformLocales": [
+    {
+      "platform": "Android",
+      "locales": ["English","German","French","Russian","Portuguese","Spanish","Turkish","Thai","Indonesian","Vietnamese","ChineseSimplified","ChineseTraditional"],
+      "platformLocales": ["en","de-rDE","fr-rFR","ru-rRU","pt-rPT","es-rES","tr-rTR","th-rTH","in-rID","vi-rVN","zh-rCN", "zh-rTW"]
+    },
+    {
+      "platform": "iOS",
+      "locales": ["English","German","French","Russian","Portuguese","Spanish","Turkish","Thai","Indonesian","Vietnamese","ChineseSimplified","ChineseTraditional"],
+      "platformLocales": ["en","de-DE","fr-FR","ru-RU","pt-PT","es-ES","tr-TR","th-TH","in-ID","vi-VN","zh-CN", "zh-TW"]
+    }
+  ]
+}
