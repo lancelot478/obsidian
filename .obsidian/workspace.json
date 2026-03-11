@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/wow/第一卷·白银之手.md",
+                "file": "AI/wow/大纲.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "第一卷·白银之手"
+              "title": "大纲"
             }
           },
           {
@@ -149,12 +149,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/wow/第一卷·白银之手.md",
+                "file": "AI/wow/大纲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "第一卷·白银之手 的出链列表"
+              "title": "大纲 的出链列表"
             }
           },
           {
@@ -273,14 +273,14 @@
   },
   "active": "c0c9bc02d58fa7b8",
   "lastOpenFiles": [
-    "AI/wow/序章·网吧里的末日.md",
+    "AI/wow/尾声·醒来.md",
     "AI/wow/第一卷·白银之手.md",
+    "AI/wow/序章·网吧里的末日.md",
     "AI/star-rail/大纲.md",
     "AI/star-rail/pic.jpg",
     "AI/ai-writing/高适·铁衣霜雪.md",
     "AI/news-analysis/memo.md",
     "AI/wow/大纲.md",
-    "AI/wow/尾声·醒来.md",
     "Work/Config.md",
     "AI/wow/第六卷·冰冠堡垒.md",
     "AI/wow/第五卷·北地之盾.md",
