@@ -8,7 +8,7 @@ muffin 123456
 
 ```note
 港澳台正式服 muffin-tw-prod-agent.xdgtw.com:9190
-港澳台QA服 172.25.135.48:9190
+港澳台QA服 172.25.135.50:9190
 国服QA 172.26.149.118:9290
 港澳台灰度服 muffin-tw-pre-agent.xdgtw.com:9190
 越南qa 172.25.135.32:9290

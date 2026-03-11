@@ -8,33 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e1e3bf6f7a0fe51e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/news-analysis/memo.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "memo"
-            }
-          },
-          {
             "id": "c0c9bc02d58fa7b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/news-analysis/memo.md",
+                "file": "AI/wow/第一卷·白银之手.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "memo"
+              "title": "第一卷·白银之手"
             }
           },
           {
@@ -51,24 +36,8 @@
               "icon": "lucide-file",
               "title": "NAS攻略"
             }
-          },
-          {
-            "id": "c275ab0f4102d38e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/news-analysis/memo.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "memo"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,12 +149,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/news-analysis/memo.md",
+                "file": "AI/wow/第一卷·白银之手.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "memo 的出链列表"
+              "title": "第一卷·白银之手 的出链列表"
             }
           },
           {
@@ -243,7 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 228.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -262,53 +231,93 @@
       "obsidian-weread-plugin:同步微信读书笔记": false
     }
   },
-  "active": "611d51664afcb8c7",
+  "floating": {
+    "id": "3a110622d2ef1260",
+    "type": "floating",
+    "children": [
+      {
+        "id": "8bd6bf1e742fd2de",
+        "type": "window",
+        "children": [
+          {
+            "id": "e8db27ff307fa1b0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ca23969816b89761",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "HomePage.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "HomePage"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 352,
+        "y": 103,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 1
+      }
+    ]
+  },
+  "active": "c0c9bc02d58fa7b8",
   "lastOpenFiles": [
-    "AI/ai-writing/梦游天姥吟留别.md",
-    "AI/ai-writing/mengyoutianmu.jpg",
-    "AI/ai-writing/ReadMe.md",
-    "AI/ai-writing",
-    "Learning/ReadingList/NAS/NAS攻略.md",
+    "AI/wow/序章·网吧里的末日.md",
+    "AI/wow/第一卷·白银之手.md",
+    "AI/star-rail/大纲.md",
+    "AI/star-rail/pic.jpg",
+    "AI/ai-writing/高适·铁衣霜雪.md",
     "AI/news-analysis/memo.md",
-    "AI/news-analysis/ReadMe.md",
+    "AI/wow/大纲.md",
+    "AI/wow/尾声·醒来.md",
     "Work/Config.md",
-    "AI/未命名.md",
-    "AI/news-analysis",
-    "Learning/ReadingList/Source Code/读书笔记/Note/generics.md",
-    "Learning/ReadingList/Source Code/读书笔记/Note/Optimization.md",
-    "Learning/ReadingList/Source Code/读书笔记/深入浅出Node.js.md",
-    "Learning/ReadingList/Source Code/读书笔记/引用文章.md",
-    "Learning/ReadingList/Source Code/读书笔记/Optimization.md",
-    "Learning/ReadingList/Source Code/读书笔记/Note",
-    "Learning/ReadingList/Source Code/读书笔记/Game pattern.md",
-    "Learning/ReadingList/Source Code/UIManager/UIManager.md",
-    "Learning/ReadingList/Renderer/PBR/毛星云知乎.md",
-    "Learning/ReadingList/Renderer/PBR/ShaderGraph.md",
-    "Learning/ReadingList/news-analysis/memo.md",
-    "Learning/ReadingList/news-analysis/ReadMe.md",
-    "Learning/ReadingList/Tools/插件.md",
-    "Learning/ReadingList/Tools/TryParse.md",
-    "Learning/ReadingList/Tools/Regex.md",
-    "Learning/ReadingList/Tools/Csharp Json.md",
-    "Learning/ReadingList/UI/UIManger.md",
-    "Learning/ReadingList/UI/Pivot Anchored.md",
-    "Learning/ReadingList/Source Code/读书笔记",
-    "Learning/ReadingList/Source Code/UIManager",
-    "Learning/ReadingList/Source Code/Object Pool in Unity.md",
-    "Learning/ReadingList/Source Code/Attribute.md",
-    "Learning/ReadingList/Renderer/PBR",
-    "Learning/ReadingList/news-analysis",
-    "Learning/ReadingList/UI",
-    "Learning/ReadingList/Tools",
-    "Learning/ReadingList/Source Code",
-    "Resources/links/Pasted image 20250108114254.png",
-    "Resources/links/Pasted image 20250225104756.png",
-    "Resources/links/Pasted image 20250225105025.png",
-    "Resources/links/Pasted image 20240726165417.png",
-    "Resources/links/Screenshot 2024-07-26 at 16.52.54.png",
-    "Resources/links/Pasted image 20241213131836.png",
-    "Resources/links/Pasted image 20241128101458.png",
-    "Resources/links/Pasted image 20241115153146.png",
-    "Resources/links/Pasted image 20241015110310.png"
+    "AI/wow/第六卷·冰冠堡垒.md",
+    "AI/wow/第五卷·北地之盾.md",
+    "AI/wow/第四卷·独行者.md",
+    "AI/wow/第三卷·诺森德远征.md",
+    "AI/wow/第二卷·斯坦索姆的灰烬.md",
+    "AI/wow/第四卷·稻妻破壁.md",
+    "AI/wow/第六卷·万商归一.md",
+    "AI/wow/第五卷·风暴之眼.md",
+    "AI/wow/第二卷·绢布与风暴.md",
+    "AI/wow/第三卷·跨越风墙.md",
+    "AI/wow/第一卷·码头上的分析师.md",
+    "AI/wow/作品简介.txt",
+    "AI/wow/pic.jpg",
+    "AI/wow",
+    "AI/world/pic.jpg",
+    "AI/world/作品简介.txt",
+    "AI/world/第四卷·稻妻破壁.md",
+    "AI/world/第六卷·万商归一.md",
+    "AI/world/第五卷·风暴之眼.md",
+    "AI/world/第二卷·绢布与风暴.md",
+    "AI/world/第三卷·跨越风墙.md",
+    "AI/world/第一卷·码头上的分析师.md",
+    "AI/world/大纲.md",
+    "AI/world",
+    "AI/yuanshen copy/pic.jpg",
+    "AI/yuanshen copy/作品简介.txt",
+    "AI/yuanshen copy",
+    "AI/lizicheng_juben",
+    "AI/sushi",
+    "AI/untitled folder",
+    "AI/star-rail/unnamed.jpg",
+    "AI/yuanshen/pic.jpg",
+    "AI/yuanshen/unnamed.jpg",
+    "AI/yuanshen/第二卷·绢布与风暴~.txt",
+    "AI/ai-writing/李白杜甫·千秋一遇.jpg",
+    "AI/ai-writing/unnamed (1).jpg",
+    "AI/ai-writing/mengyoutianmu.jpg"
   ]
 }
