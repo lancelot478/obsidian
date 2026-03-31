@@ -1,6 +1,5 @@
 [
   "templater-obsidian",
-  "calendar",
   "dataview",
   "quickadd",
   "homepage",
@@ -21,5 +20,5 @@
   "obsidian-excel-to-markdown-table",
   "terminal",
   "obsidian-weread-plugin",
-  "docxer"
+  "obsidian-custom-file-extensions-plugin"
 ]

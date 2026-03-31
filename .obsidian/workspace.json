@@ -8,67 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c0c9bc02d58fa7b8",
+            "id": "eebe1c154af15e4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/news-analysis/memo.md",
+                "file": "AI/war-linbiao/卷二/2·一保临江.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "memo"
+              "title": "2·一保临江"
             }
           },
           {
-            "id": "c5c193c8151b4a2c",
+            "id": "9da9a8843a1e7390",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/private/memo.md",
+                "file": "AI/war-linbiao/卷二/5·破局.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "memo"
-            }
-          },
-          {
-            "id": "6d7c6f5c2a7cce77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/jin_yong/1秋雨铸双锋.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "1秋雨铸双锋"
-            }
-          },
-          {
-            "id": "7562b3408f106425",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/shader/Shader优化十个常见技巧.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Shader优化十个常见技巧"
+              "title": "5·破局"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,12 +149,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/shader/Shader优化十个常见技巧.md",
+                "file": "AI/shader/透视轮廓Shader（射击游戏X-Ray效果）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Shader优化十个常见技巧 的出链列表"
+              "title": "透视轮廓Shader（射击游戏X-Ray效果） 的出链列表"
             }
           },
           {
@@ -216,16 +185,6 @@
               },
               "icon": "lucide-list",
               "title": "Outline of Cursor"
-            }
-          },
-          {
-            "id": "6079e0c2460e8bfd",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
             }
           },
           {
@@ -263,44 +222,45 @@
       "obsidian-weread-plugin:同步微信读书笔记": false
     }
   },
-  "active": "7562b3408f106425",
+  "active": "eebe1c154af15e4e",
   "lastOpenFiles": [
-    "AI/gailvlun/伽马函数递推公式推导.md",
-    "AI/shader/Shader优化十个常见技巧.md",
-    "AI/shader/生日问题-50概率.md",
-    "AI/shader/泰勒级数简介.md",
-    "AI/shader/伽马函数递推公式推导.md",
-    "AI/shader/伽马函数简介.md",
-    "AI/shader/书中的投篮问题与解法.md",
-    "AI/shader/problifesaver_comments.pdf",
-    "AI/shader/e的连续复利推导.md",
-    "AI/shader",
-    "AI/gailvlun copy/problifesaver_comments.pdf",
-    "AI/gailvlun copy/伽马函数递推公式推导.md",
-    "AI/gailvlun copy/e的连续复利推导.md",
-    "AI/gailvlun copy/书中的投篮问题与解法.md",
-    "AI/gailvlun copy/泰勒级数简介.md",
-    "AI/gailvlun copy/伽马函数简介.md",
-    "AI/gailvlun copy/生日问题-50概率.md",
-    "AI/gailvlun copy",
-    "AI/gailvlun/伽马函数简介.md",
-    "AI/gailvlun/书中的投篮问题与解法.md",
-    "AI/rachel_excel/China import statistics 2022 working.xlsx",
-    "AI/rachel_excel/霍尔木兹危机3月17日点位预测与转空判断.md",
-    "AI/rachel_excel/黄金流动性抛售与真实底部判断.pdf",
-    "AI/rachel_excel/南钢股份2024年报关键数据提取.md",
-    "AI/rachel_excel/黄金流动性抛售与真实底部判断.md",
-    "AI/rachel_excel/伊朗封锁霍尔木兹海峡对金属行业影响.md",
-    "AI/rachel_excel/霍尔木兹海峡危机交易策略与拐点判断.md",
-    "AI/rachel_excel/霍尔木兹危机3月17日点位预测与转空判断.pdf",
-    "AI/rachel_excel/大型危机初期投资策略框架.pdf",
-    "AI/rachel_excel/大型危机初期投资策略框架.md",
-    "AI/rachel_excel/南钢股份2025年报关键数据提取.pdf",
-    "AI/rachel_excel/南钢股份2025年报关键数据提取.md",
-    "AI/rachel_excel/南钢股份2024年报关键数据提取.pdf",
-    "AI/rachel_excel/中信特钢vs南钢股份2024-2025对比分析.md",
-    "AI/rachel_excel/中信特钢vs南钢2024-2025简报.md",
-    "AI/rachel_excel/中信特钢2025年年度报告关键数据.md",
+    "AI/war-linbiao/卷二/5·破局.md",
+    "AI/working/OpenSpec规范驱动开发框架.md",
+    "AI/war-linbiao/卷二/2·一保临江.md",
+    "AI/war-linbiao/大纲.md",
+    "AI/war-linbiao/卷一/6·松花江以北.md",
+    "AI/war-linbiao/卷二/1·南满告急.md",
+    "AI/war-linbiao/卷一/5·决断时刻.md",
+    "AI/war-linbiao/卷一/4·不能输的仗.md",
+    "AI/war-linbiao/卷一/3·黄豆与地图.md",
+    "AI/working/透视轮廓Shader（射击游戏X-Ray效果）.md",
+    "AI/working/观察空间与裁剪空间的区别.md",
+    "AI/working/投影矩阵的推导.md",
+    "AI/working/Shader优化十个常见技巧.md",
+    "AI/working",
+    "AI/shader copy/Shader优化十个常见技巧.md",
+    "AI/shader copy/投影矩阵的推导.md",
+    "AI/shader copy/透视轮廓Shader（射击游戏X-Ray效果）.md",
+    "AI/shader copy/观察空间与裁剪空间的区别.md",
+    "AI/shader copy",
+    "AI/war-linbiao/卷五/5·数字与沉默.md",
+    "AI/war-linbiao/卷五/4·沈阳.md",
+    "AI/war-linbiao/卷五/3·长春的漫长等待.md",
+    "AI/war-linbiao/卷五/2·廖耀湘的最后一夜.md",
+    "AI/war-linbiao/卷五/1·辽西荒野.md",
+    "AI/war-linbiao/卷五/卷五·黑土地上的终局.md",
+    "AI/war-linbiao/卷四/6·一觉.md",
+    "AI/war-linbiao/卷四/5·三十一小时.md",
+    "AI/war-linbiao/卷四/4·塔山.md",
+    "AI/war-linbiao/卷五",
+    "AI/war-linbiao/卷四",
+    "AI/war-linbiao/卷三",
+    "AI/war-linbiao/卷二",
+    "AI/war-linbiao/卷一",
+    "AI/war-linbiao/卷四-逆时之砂",
+    "AI/war-linbiao/卷六-风暴之眼",
+    "AI/war-linbiao/卷八-暗庙孤月",
+    "AI/wow-wlk/unnamed.jpg",
     "AI/wow-saer/unnamed.jpg",
     "AI/wow copy/unnamed.jpg",
     "AI/yuqian/unnamed.jpg",
@@ -309,7 +269,6 @@
     "AI/star-rail copy/pic.jpg",
     "AI/fight-ai/pic.jpg",
     "AI/wow/pic.jpg",
-    "AI/world/pic.jpg",
-    "AI/yuanshen copy/pic.jpg"
+    "AI/world/pic.jpg"
   ]
 }
