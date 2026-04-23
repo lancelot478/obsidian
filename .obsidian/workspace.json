@@ -8,36 +8,52 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eebe1c154af15e4e",
+            "id": "f5a16ee1ba73076d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/war-linbiao/卷二/2·一保临江.md",
-                "mode": "preview",
+                "file": "AI/working/zserver.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2·一保临江"
+              "title": "zserver"
             }
           },
           {
-            "id": "9da9a8843a1e7390",
+            "id": "79b253bb7c186ac5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/war-linbiao/卷二/5·破局.md",
+                "file": "AI/working/test.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "5·破局"
+              "title": "test"
+            }
+          },
+          {
+            "id": "e9d224b0232680a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/ai-writing/新安吏·少年的眼睛里没有战争.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "新安吏·少年的眼睛里没有战争"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -57,7 +73,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -114,7 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 323.5
   },
   "right": {
     "id": "c00cc39d483a21e5",
@@ -222,44 +238,46 @@
       "obsidian-weread-plugin:同步微信读书笔记": false
     }
   },
-  "active": "eebe1c154af15e4e",
+  "active": "e9d224b0232680a4",
   "lastOpenFiles": [
-    "AI/war-linbiao/卷二/5·破局.md",
-    "AI/working/OpenSpec规范驱动开发框架.md",
-    "AI/war-linbiao/卷二/2·一保临江.md",
-    "AI/war-linbiao/大纲.md",
-    "AI/war-linbiao/卷一/6·松花江以北.md",
-    "AI/war-linbiao/卷二/1·南满告急.md",
-    "AI/war-linbiao/卷一/5·决断时刻.md",
-    "AI/war-linbiao/卷一/4·不能输的仗.md",
-    "AI/war-linbiao/卷一/3·黄豆与地图.md",
-    "AI/working/透视轮廓Shader（射击游戏X-Ray效果）.md",
-    "AI/working/观察空间与裁剪空间的区别.md",
-    "AI/working/投影矩阵的推导.md",
-    "AI/working/Shader优化十个常见技巧.md",
-    "AI/working",
-    "AI/shader copy/Shader优化十个常见技巧.md",
-    "AI/shader copy/投影矩阵的推导.md",
-    "AI/shader copy/透视轮廓Shader（射击游戏X-Ray效果）.md",
-    "AI/shader copy/观察空间与裁剪空间的区别.md",
-    "AI/shader copy",
-    "AI/war-linbiao/卷五/5·数字与沉默.md",
-    "AI/war-linbiao/卷五/4·沈阳.md",
-    "AI/war-linbiao/卷五/3·长春的漫长等待.md",
-    "AI/war-linbiao/卷五/2·廖耀湘的最后一夜.md",
-    "AI/war-linbiao/卷五/1·辽西荒野.md",
-    "AI/war-linbiao/卷五/卷五·黑土地上的终局.md",
-    "AI/war-linbiao/卷四/6·一觉.md",
-    "AI/war-linbiao/卷四/5·三十一小时.md",
-    "AI/war-linbiao/卷四/4·塔山.md",
-    "AI/war-linbiao/卷五",
-    "AI/war-linbiao/卷四",
-    "AI/war-linbiao/卷三",
-    "AI/war-linbiao/卷二",
-    "AI/war-linbiao/卷一",
-    "AI/war-linbiao/卷四-逆时之砂",
-    "AI/war-linbiao/卷六-风暴之眼",
-    "AI/war-linbiao/卷八-暗庙孤月",
+    "AI/his-Tangsichou/大纲.md",
+    "AI/ai-writing/无家别·无处告别的人.md",
+    "AI/his-Tangsichou/CLAUDE.md",
+    "AI/his-Tangsichou/rule.mdc",
+    "AI/his-Tangsichou/卷四/4·塔山.md",
+    "AI/his-Tangsichou/卷四/卷四·锦州.md",
+    "AI/his-Tangsichou/卷四/6·一觉.md",
+    "AI/his-Tangsichou/卷四/5·三十一小时.md",
+    "AI/his-Tangsichou/卷四/3·锦州城下.md",
+    "AI/his-Tangsichou/卷四/2·南下.md",
+    "AI/his-Tangsichou/卷四/1·两封电报.md",
+    "AI/his-Tangsichou/卷五/卷五·黑土地上的终局.md",
+    "AI/his-Tangsichou/卷五/5·数字与沉默.md",
+    "AI/his-Tangsichou/卷五/4·沈阳.md",
+    "AI/his-Tangsichou/卷五/3·长春的漫长等待.md",
+    "AI/his-Tangsichou/卷五/2·廖耀湘的最后一夜.md",
+    "AI/his-Tangsichou/卷五/1·辽西荒野.md",
+    "AI/his-Tangsichou/卷二/卷二·逆流.md",
+    "AI/his-Tangsichou/卷二/5·破局.md",
+    "AI/his-Tangsichou/卷二/4·拉锯.md",
+    "AI/his-Tangsichou/卷二/3·江南奇袭.md",
+    "AI/his-Tangsichou/卷二/2·一保临江.md",
+    "AI/his-Tangsichou/卷二/1·南满告急.md",
+    "AI/his-Tangsichou/卷三/卷三·攻势如潮.md",
+    "AI/his-Tangsichou/卷三/6·卫立煌到任.md",
+    "AI/his-Tangsichou/卷三/5·围城.md",
+    "AI/his-Tangsichou/卷三/4·陈诚的溃败.md",
+    "AI/his-Tangsichou/卷四",
+    "AI/his-Tangsichou/卷五",
+    "AI/his-Tangsichou/卷二",
+    "AI/his-Tangsichou/卷三",
+    "AI/his-Tangsichou/卷一",
+    "AI/his-Tangsichou",
+    "AI/war-linbiao copy/卷五",
+    "AI/war-linbiao copy/卷四",
+    "AI/war-linbiao copy/卷三",
+    "Resources/links/Pasted image 20260415100702.png",
+    "Resources/links/Pasted image 20260407181626.png",
     "AI/wow-wlk/unnamed.jpg",
     "AI/wow-saer/unnamed.jpg",
     "AI/wow copy/unnamed.jpg",
@@ -267,8 +285,6 @@
     "AI/wow/unnamed.jpg",
     "AI/star-rail/pic.jpg",
     "AI/star-rail copy/pic.jpg",
-    "AI/fight-ai/pic.jpg",
-    "AI/wow/pic.jpg",
-    "AI/world/pic.jpg"
+    "AI/fight-ai/pic.jpg"
   ]
 }
