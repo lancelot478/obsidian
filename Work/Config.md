@@ -9,6 +9,8 @@ muffin 123456
 ```note
 港澳台正式服 muffin-tw-prod-agent.xdgtw.com:9190
 港澳台QA服 172.25.135.48:9190
+
+2a51b0cfba09eb043b9be6bb2c6bf66f
 国服QA 172.26.149.118:9290
 港澳台灰度服 muffin-tw-pre-agent.xdgtw.com:9190
 越南qa 172.25.135.32:9290
@@ -34,21 +36,18 @@ muffin-gl-pre2-agent.xdgtw.com:9190
 
 内网  172.25.135.20:8190
 
-MAC  127.0.0.1:9190
-MacMini 172.26.151.210
-vnc://172.26.149.199/ 
 台湾的号		467635257295085569
 我的号     609456320273518593  236925
 宝宝的号：  619996736911605761 196554
 打波利 1 GM ： 36063053
 H 10-20/2 * * 1-5
 
+claudeCode : sk-EIlRrcxGoQ23FuSt248gGA
+export CLINE_AUTO_APPROVE=true
+codex : sk-svDfDFtMbSGPlrEOQianlQ
+jetbrains: 9xH6eK3fA7wN5rQc
 ```
 
-```note
-mumu模拟器日志 adb connect 127.0.0.1:7555
-
-```
 
 ```
 打波利1
@@ -85,12 +84,15 @@ title:本地服编译和运行
 make zagent zbattle zcenter zchat zdevops zgame zguild zlogin zmonitor zrecharge zteam
 make localserver
 ./scripts/localserver-admin start
+nohup redis-server --port 12000 --protected-mode no &
 ```
 
 ```ad-tip
 title: web-gmtools编译和运行
 TOOLS_TARGET=web-gmtools make tools-target
 bin/web-gmtools -bolt admin.bolt -config tools/web-gmtools/server.json -public tools/web-gmtools/public -users tools/web-gmtools/users.json
+
+
 ```
 
 

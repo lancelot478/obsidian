@@ -4,52 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "28cbc88d3a9791ea",
+        "id": "df62bbcb2c825e45",
         "type": "tabs",
         "children": [
           {
-            "id": "f5a16ee1ba73076d",
+            "id": "e44a266b46c3906c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/working/zserver.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "zserver"
-            }
-          },
-          {
-            "id": "79b253bb7c186ac5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/working/test.md",
+                "file": "Work/AI/battle_rogue_client.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "battle_rogue_client"
             }
           },
           {
-            "id": "e9d224b0232680a4",
+            "id": "a502f98e2647a1db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/ai-writing/新安吏·少年的眼睛里没有战争.md",
+                "file": "AI/his-Tangsichou/卷三/5 最后的龟兹.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "新安吏·少年的眼睛里没有战争"
+              "title": "5 最后的龟兹"
+            }
+          },
+          {
+            "id": "cd2cb4c5b23d032e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/原神/第六卷·万商归一.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "第六卷·万商归一"
+            }
+          },
+          {
+            "id": "cd0755dd396af47a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Config.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Config"
             }
           }
         ],
@@ -85,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "AI",
+                "query": "redis-server",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -238,53 +253,53 @@
       "obsidian-weread-plugin:同步微信读书笔记": false
     }
   },
-  "active": "e9d224b0232680a4",
+  "active": "cd2cb4c5b23d032e",
   "lastOpenFiles": [
+    "AI/原神/第五卷·风暴之眼.md",
+    "AI/原神/第二卷·绢布与风暴.md",
+    "AI/原神/第三卷·跨越风墙.md",
+    "AI/原神/第一卷·码头上的分析师.md",
+    "Work/AI/go/bblot.md",
+    "AI/his-Tangsichou/卷三/5 最后的龟兹.md",
+    "Work/Config.md",
+    "Work/AI/后端文档汇总.md",
+    "Work/AI/tools.md",
+    "Work/AI/test.md",
+    "Work/AI/server-redis.md",
+    "Work/AI/net.md",
+    "Work/AI/battle_rogue_client.md",
+    "Work/AI/battle_map_910002.md",
+    "Work/battle_rogue_client.md",
+    "HomePage.md",
+    "AI/his-Tangsichou/卷三/4 康利的忧虑.md",
+    "Work/AI/go/gin.md",
+    "AI/his-Tangsichou/卷三/3 涨价的丝绸.md",
+    "AI/ai-writing/守本固源，终见天光.md",
+    "Work/AI/battle_server.md",
+    "AI/his-Tangsichou/卷三/2 杨家的排场.md",
+    "Work/AI/go/goroutine.md",
+    "AI/his-Tangsichou/卷三/1 怛罗斯的回声.md",
     "AI/his-Tangsichou/大纲.md",
-    "AI/ai-writing/无家别·无处告别的人.md",
-    "AI/his-Tangsichou/CLAUDE.md",
-    "AI/his-Tangsichou/rule.mdc",
-    "AI/his-Tangsichou/卷四/4·塔山.md",
-    "AI/his-Tangsichou/卷四/卷四·锦州.md",
-    "AI/his-Tangsichou/卷四/6·一觉.md",
-    "AI/his-Tangsichou/卷四/5·三十一小时.md",
-    "AI/his-Tangsichou/卷四/3·锦州城下.md",
-    "AI/his-Tangsichou/卷四/2·南下.md",
-    "AI/his-Tangsichou/卷四/1·两封电报.md",
-    "AI/his-Tangsichou/卷五/卷五·黑土地上的终局.md",
-    "AI/his-Tangsichou/卷五/5·数字与沉默.md",
-    "AI/his-Tangsichou/卷五/4·沈阳.md",
-    "AI/his-Tangsichou/卷五/3·长春的漫长等待.md",
-    "AI/his-Tangsichou/卷五/2·廖耀湘的最后一夜.md",
-    "AI/his-Tangsichou/卷五/1·辽西荒野.md",
-    "AI/his-Tangsichou/卷二/卷二·逆流.md",
-    "AI/his-Tangsichou/卷二/5·破局.md",
-    "AI/his-Tangsichou/卷二/4·拉锯.md",
-    "AI/his-Tangsichou/卷二/3·江南奇袭.md",
-    "AI/his-Tangsichou/卷二/2·一保临江.md",
-    "AI/his-Tangsichou/卷二/1·南满告急.md",
-    "AI/his-Tangsichou/卷三/卷三·攻势如潮.md",
-    "AI/his-Tangsichou/卷三/6·卫立煌到任.md",
-    "AI/his-Tangsichou/卷三/5·围城.md",
-    "AI/his-Tangsichou/卷三/4·陈诚的溃败.md",
-    "AI/his-Tangsichou/卷四",
-    "AI/his-Tangsichou/卷五",
-    "AI/his-Tangsichou/卷二",
-    "AI/his-Tangsichou/卷三",
-    "AI/his-Tangsichou/卷一",
-    "AI/his-Tangsichou",
-    "AI/war-linbiao copy/卷五",
-    "AI/war-linbiao copy/卷四",
-    "AI/war-linbiao copy/卷三",
+    "Work/AI/battle_server_team.md",
+    "AI/魔兽世界TBC/卷一-黑门余烬",
+    "AI/魔兽世界TBC/卷四-逆时之砂",
+    "AI/魔兽世界TBC/卷六-风暴之眼",
+    "AI/魔兽世界TBC/卷八-暗庙孤月",
+    "AI/魔兽世界TBC/卷五-紫罗兰夜宴",
+    "AI/魔兽世界TBC/卷二-泽国蛇影",
+    "AI/魔兽世界TBC/卷三-白骨之城",
+    "AI/魔兽世界TBC/卷九-血日终焉",
+    "AI/魔兽世界TBC/卷七-海山残火",
+    "AI/魔兽世界TBC",
+    "AI/原神/pic.jpg",
+    "AI/巫妖王/unnamed.jpg",
+    "AI/崩铁/pic.jpg",
+    "AI/ai-writing/永遇乐·京口北固亭怀古.png",
+    "AI/ai-writing/xinqiji jingkoubeiguting.png",
     "Resources/links/Pasted image 20260415100702.png",
     "Resources/links/Pasted image 20260407181626.png",
     "AI/wow-wlk/unnamed.jpg",
     "AI/wow-saer/unnamed.jpg",
-    "AI/wow copy/unnamed.jpg",
-    "AI/yuqian/unnamed.jpg",
-    "AI/wow/unnamed.jpg",
-    "AI/star-rail/pic.jpg",
-    "AI/star-rail copy/pic.jpg",
-    "AI/fight-ai/pic.jpg"
+    "AI/wow copy/unnamed.jpg"
   ]
 }
